@@ -1,0 +1,3 @@
+﻿  ClockApp.cpp
+C:\Users\chris\source\repos\ClockApp\ClockApp\ClockApp.cpp(51): warning C4715: 'menuOptions': not all control paths return a value
+  ClockApp.vcxproj -> C:\Users\chris\source\repos\ClockApp\Debug\ClockApp.exe
